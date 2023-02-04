@@ -1,7 +1,7 @@
 import openai
 
 #need to remove the key before pushing to GitHub
-openai.api_key = "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"
+openai.api_key = ""
 
 def sentiment_analysis(texts):
     sentiments = []
